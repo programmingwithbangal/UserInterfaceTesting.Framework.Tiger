@@ -5,7 +5,7 @@ import pages.Sprint1Page;
 
 public class Sprint1PageActions 
 {
-	protected Sprint1Page Sprint1Page;
+	public Sprint1Page Sprint1Page;
 	
     public Sprint1PageActions(WebDriver driver)
     {

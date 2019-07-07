@@ -6,7 +6,7 @@ import resources.User;
 
 public class Sprint3PageActions 
 {
-	protected Sprint3Page Sprint3Page;
+	public Sprint3Page Sprint3Page;
 	
     public Sprint3PageActions(WebDriver driver)
     {

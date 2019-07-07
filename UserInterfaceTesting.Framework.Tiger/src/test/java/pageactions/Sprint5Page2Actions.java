@@ -7,7 +7,7 @@ import resources.Animal;
 
 public class Sprint5Page2Actions 
 {
-	protected Sprint5Page2 Sprint5Page2;
+	public Sprint5Page2 Sprint5Page2;
 	
     public Sprint5Page2Actions(WebDriver driver)
     {

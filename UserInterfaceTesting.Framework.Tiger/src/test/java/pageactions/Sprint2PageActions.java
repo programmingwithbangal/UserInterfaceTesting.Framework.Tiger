@@ -5,7 +5,7 @@ import pages.Sprint2Page;
 
 public class Sprint2PageActions 
 {
-	protected Sprint2Page Sprint2Page;
+	public Sprint2Page Sprint2Page;
 	
     public Sprint2PageActions(WebDriver driver)
     {

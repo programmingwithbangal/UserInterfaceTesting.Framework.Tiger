@@ -7,7 +7,7 @@ import resources.User;
 
 public class Sprint5PageActions 
 {
-	protected Sprint5Page Sprint5Page;
+	public Sprint5Page Sprint5Page;
 	
     public Sprint5PageActions(WebDriver driver)
     {
