@@ -1,5 +1,5 @@
 # UserInterfaceTesting.Framework.Tiger <img src ="UserInterfaceTesting.Framework.Tiger/images/tiger.jpg" width=109>
-This is a User Interface testing Framework using Maven, JUnit and Selenium WebDriver to test UltimateQA Practice site.
+This is a User Interface testing Framework using Java, Maven, JUnit and Selenium WebDriver to test UltimateQA Practice site.
 
 ## Selenium WebDriver <img src ="UserInterfaceTesting.Framework.Tiger/images/selenium.png" width=79>
 Selenium WebDriver is a collection of open source APIs which are used to automate the testing of a web application. Selenium WebDriver tool is used to automate web application testing to verify that it works as expected. It supports many browsers such as Firefox, Chrome, IE, and Safari. WebDriver is a web automation framework that allows you to execute your tests against different browsers. It also enables you to use a programming language in creating your test scripts. https://www.seleniumhq.org/projects/webdriver/
