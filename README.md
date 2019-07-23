@@ -25,3 +25,11 @@ https://www.ultimateqa.com/automation/
 
 ## Integrated Development Environment
 Eclipse IDE is used to develop this Framework.
+
+### Run Tests with Command Prompt/Windows PowerShell
+* Open Folder in File Explorer: ..\UserInterfaceTesting.Framework.Tiger (where you have the "pom.xml" file)
+* Run "mvn clean test"
+
+#### Notes ('mvn' is not recognized as an internal or external command)
+* Download "apache-maven-3.6.1-bin.tar.gz" from "https://maven.apache.org/download.cgi#"
+* Set the Environment Variables
