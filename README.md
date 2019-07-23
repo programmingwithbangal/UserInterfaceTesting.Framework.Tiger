@@ -27,7 +27,7 @@ https://www.ultimateqa.com/automation/
 Eclipse IDE is used to develop this Framework.
 
 ### Run Tests
-* Open file in Eclipse: ..\UserInterfaceTesting.Framework.BengalTiger\src\test\java\runner\TestRunner.java
+* Open file in Eclipse: ..\UserInterfaceTesting.Framework.Tiger\src\test\java\runner\TestRunner.java
 * Right click => Run As
 * JUnit Test
 * Right click on runner.TestRunner
