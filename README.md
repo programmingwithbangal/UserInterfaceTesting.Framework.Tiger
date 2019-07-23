@@ -28,6 +28,7 @@ Eclipse IDE is used to develop this Framework.
 
 ### Run Tests with Command Prompt/Windows PowerShell
 * Open Folder in File Explorer: ..\UserInterfaceTesting.Framework.Tiger (where you have the "pom.xml" file)
+* Open Command Prompt/Windows PowerShell
 * Run "mvn clean test"
 
 #### Notes ('mvn' is not recognized as an internal or external command)
