@@ -26,6 +26,21 @@ https://www.ultimateqa.com/automation/
 ## Integrated Development Environment
 Eclipse IDE is used to develop this Framework.
 
+### Run Tests
+* Open file in Eclipse: ..\UserInterfaceTesting.Framework.BengalTiger\src\test\java\runner\TestRunner.java
+* Right click => Run As
+* JUnit Test
+* Right click on runner.TestRunner
+* Run
+#### Shortcut:
+* Alt + Shift + X, T
+
+### Run Tests with JUnit Explorer
+* Window => Show View => Other... (Alt + Shift + Q, Q)
+* Java => JUnit
+* Right click on runner.TestRunner
+* Run
+
 ### Run Tests with Command Prompt/Windows PowerShell
 * Open Folder in File Explorer: ..\UserInterfaceTesting.Framework.Tiger (where you have the "pom.xml" file)
 * Open Command Prompt/Windows PowerShell
