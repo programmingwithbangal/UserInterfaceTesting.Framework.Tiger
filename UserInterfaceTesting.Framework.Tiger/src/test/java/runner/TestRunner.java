@@ -10,6 +10,6 @@ import tests.Sprint5Tests;
 
 @RunWith(Suite.class)
 @Suite.SuiteClasses({Sprint1Tests.class, Sprint2Tests.class, Sprint3Tests.class, Sprint4Tests.class, Sprint5Tests.class})
-public class Runner 
+public class TestRunner 
 {	
 }
