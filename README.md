@@ -32,6 +32,8 @@ Eclipse IDE is used to develop this Framework.
 * JUnit Test
 * Right click on runner.TestRunner
 * Run
+<img src ="UserInterfaceTesting.Framework.Tiger/images/runjunittests.png" width=350>
+
 #### Shortcut:
 * Alt + Shift + X, T
 
@@ -40,6 +42,9 @@ Eclipse IDE is used to develop this Framework.
 * Java => JUnit
 * Right click on runner.TestRunner
 * Run
+<img src ="UserInterfaceTesting.Framework.Tiger/images/junitexplorer1.png" width=350>
+<img src ="UserInterfaceTesting.Framework.Tiger/images/junitexplorer2.png" width=350>
+<img src ="UserInterfaceTesting.Framework.Tiger/images/junitexplorer3.png" width=350>
 
 ### Run Tests with Command Prompt/Windows PowerShell
 * Open Folder in File Explorer: ..\UserInterfaceTesting.Framework.Tiger (where you have the "pom.xml" file)
