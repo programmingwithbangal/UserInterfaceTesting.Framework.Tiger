@@ -30,8 +30,6 @@ Eclipse IDE is used to develop this Framework.
 * Open file in Eclipse: ..\UserInterfaceTesting.Framework.Tiger\src\test\java\runner\TestRunner.java
 * Right click => Run As
 * JUnit Test
-* Right click on runner.TestRunner
-* Run
 <img src ="UserInterfaceTesting.Framework.Tiger/images/runjunittests.png" width=350>
 
 #### Shortcut:
