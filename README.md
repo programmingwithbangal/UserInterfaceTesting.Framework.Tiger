@@ -52,3 +52,8 @@ Eclipse IDE is used to develop this Framework.
 #### Notes ('mvn' is not recognized as an internal or external command)
 * Download "apache-maven-3.6.1-bin.tar.gz" from "https://maven.apache.org/download.cgi#"
 * Set the Environment Variables
+
+### Run Tests in Parallel 
+* Open file in Eclipse: ..\UserInterfaceTesting.Framework.Tiger\src\test\java\runner\TestParallelRunner.java
+* Right click => Run As
+* Java Application
