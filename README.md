@@ -57,3 +57,4 @@ Eclipse IDE is used to develop this Framework.
 * Open file in Eclipse: ..\UserInterfaceTesting.Framework.Tiger\src\test\java\runner\TestParallelRunner.java
 * Right click => Run As
 * Java Application
+<img src ="UserInterfaceTesting.Framework.Tiger/images/runasjavaapp.png" width=350>
